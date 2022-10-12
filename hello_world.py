@@ -4,7 +4,8 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMCWXN2N8LcNTPT6ReUvqXy",
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyNUb+N9N7tYOPQ3dVTg+LuT",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,12 +29,26 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
-        "id": "oDJpunAFJE5u"
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "oDJpunAFJE5u",
+        "outputId": "1bd39e97-6890-4fbe-c5de-d2ae4f62a542"
       },
-      "outputs": [],
-      "source": []
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello World\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Hello World\")"
+      ]
     }
   ]
 }
